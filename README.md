@@ -1,0 +1,2 @@
+# plugin-newsletters
+Newsletters page
